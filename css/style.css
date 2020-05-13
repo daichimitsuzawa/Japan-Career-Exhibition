@@ -949,7 +949,7 @@ button:focus {
 .home_banner_area .banner_inner .banner_content p {
     max-width: 680px;
     font-size: 30px;
-    font-family: cursive;
+    font-family: Garamond;
     margin: 45px 45px;
     text-align: center;
 }
@@ -1215,9 +1215,9 @@ button:focus {
 }
 
 .video-left {
-    background: url(../img/elements/london.jpg) no-repeat center;
-    background-size: cover;
+    background: url(../img/background/cherry.jpg) no-repeat center;
     height: 350px;
+    width: 80px;
     border-radius: 10px;
     z-index: 1;
 }
