@@ -4,3 +4,5 @@
 - アカウント作成には、名前と電話番号、メールアドレス、パスワード
 - ログインには名前とパスワード
 - 機能としては、English CVの提出をする。
+
+- URL: https://daichimitsuzawa.github.io/Japan-Career-Exhibition/index.html
